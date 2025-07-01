@@ -39,5 +39,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carre
 
 ## Entre em Contato  
 - 📧 E-mail: [tiagomfcarneiro@hotmail.com](mailto:tiagomfcarneiro@hotmail.com)  
-- 💼 LinkedIn: [Tiago Mascarenhas](https://www.linkedin.com/in/tiagomascarenchass)  
+- 💼 LinkedIn: [Tiago Mascarenhas](https://www.linkedin.com/in/tiagomascarenhass)  
 - 🐙 GitHub: [TiagoMascarenhas](https://github.com/TiagoMascarenhas)  
