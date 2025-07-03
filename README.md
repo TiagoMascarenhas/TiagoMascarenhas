@@ -35,7 +35,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carre
 - Trilha Digital | Coders 24 | Data Science | ADA TECH (2024)  
 - Bootcamp QA | Escola Atlântico Avanti (2025)  
 - Google Cybersecurity | Coursera (Cursando)  
-- AWS Developer | Escola da Nuvem (Cursando)  
+- AWS Developer | Escola da Nuvem 
 
 ## Entre em Contato  
 - 📧 E-mail: [tiagomfcarneiro@hotmail.com](mailto:tiagomfcarneiro@hotmail.com)  
