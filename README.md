@@ -9,7 +9,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carre
 - Versionamento com Git e GitHub.  
 - Desenvolvimento (Python, SQL, Scrum).  
 
-💡 **O que me motiva**: Construir soluções seguras e eficientes na nuvem e ajudar outros a crescerem na área de tecnologia.
 
 ## Habilidades  
 - **Cloud**: AWS (EC2, Cloud Practitioner), configuração de instâncias e grupos de segurança.  
